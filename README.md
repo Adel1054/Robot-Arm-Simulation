@@ -87,6 +87,8 @@ Where:
 
 When the robot approaches a singularity boundary, $\lambda^2 I$ populates the denominator, mathematically preventing division-by-zero. This smoothly bounds the joint velocities to a safe operating envelope by sacrificing marginal tracking precision in favor of absolute numerical and physical stability.
 
+---
+
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository:**
@@ -102,6 +104,7 @@ When the robot approaches a singularity boundary, $\lambda^2 I$ populates the de
 
    python Robot-Arm-Simulation.py
 
+---
 
 ## 📊 Automated Telemetry Logging
 
