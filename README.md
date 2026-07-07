@@ -1,5 +1,8 @@
 # Interactive 3-DOF Planar Robotic Arm Simulation
 
+
+<img width="800" height="431" alt="Simulation_Demo" src="https://github.com/user-attachments/assets/1d7df706-d3da-4019-b5f1-16d9f9924858" />
+
 An advanced, interactive 3-Degree of Freedom (3-DOF) planar robot arm simulation built in Python using `matplotlib`. This repository serves as a comprehensive platform for visualizing and analyzing core robotics engineering principles, including forward/differential kinematics, singularity avoidance via Damped Least Squares (DLS), safety hard-clamping, and physical motor lag emulation.
 
 
