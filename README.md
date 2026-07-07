@@ -88,7 +88,7 @@ When the robot approaches a singularity boundary, $\lambda^2 I$ populates the de
 
 1. **Clone the repository:**
    
-   git clone [https://github.com/Adel1054/your-repo-name.git](https://github.com/Adel1054/Robot-Arm-Simulation.git)
+   git clone [https://github.com/Adel1054/Robot-Arm-Simulation.git](https://github.com/Adel1054/Robot-Arm-Simulation.git)
    cd Robot-Arm-Simulation
 
 2. **Install dependencies:**
