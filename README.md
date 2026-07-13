@@ -36,7 +36,7 @@ Rather than instantaneous, unnatural software position stepping, the joints in t
 
 
 
-When a step command for a target velocity ($\dot{\Theta}_{\text{target}}$) is dispatched by the kinematics controller, the actual joint velocity ($\dot{\Theta}_{\text{actual}}$) does not change instantly. Instead, it behaves like voltage charging across a capacitor in a first-order circuit, governed by the following differential equation:
+When a step command for a target velocity ($\dot{\Theta}\_{\text{target}}$) is dispatched by the kinematics controller, the actual joint velocity ($\dot{\Theta}\_{\text{actual}}$) does not change instantly. Instead, it behaves like voltage charging across a capacitor in a first-order circuit, governed by the following differential equation:
 
 $$\ddot{\Theta} = \frac{\dot{\Theta}_{\text{target}} - \dot{\Theta}_{\text{actual}}}{\tau}$$
 
